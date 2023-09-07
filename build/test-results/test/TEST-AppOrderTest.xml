@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AppOrderTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-09-07T12:09:02" hostname="DESKTOP-A4940C0" time="20.164">
+  <properties/>
+  <testcase name="emptyNameInput()" classname="AppOrderTest" time="4.509"/>
+  <testcase name="emptyPhoneInput()" classname="AppOrderTest" time="2.646"/>
+  <testcase name="invalidPhoneInput()" classname="AppOrderTest" time="2.799"/>
+  <testcase name="validInput()" classname="AppOrderTest" time="3.27"/>
+  <testcase name="invalidNameInput()" classname="AppOrderTest" time="2.634"/>
+  <testcase name="uncheckedCheckbox()" classname="AppOrderTest" time="4.289"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+сент. 07, 2023 3:09:05 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 115
+сент. 07, 2023 3:09:07 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 115
+сент. 07, 2023 3:09:10 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 115
+сент. 07, 2023 3:09:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 115
+сент. 07, 2023 3:09:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 115
+сент. 07, 2023 3:09:19 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 115
+]]></system-err>
+</testsuite>
